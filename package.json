@@ -1,0 +1,22 @@
+{
+  "bugs": {
+    "url": "https:"
+  },
+  "bundleDependencies": true,
+  "dependencies": {
+    "minetweaker": "4.2.0"
+  },
+  "depricated": false,
+  "description": "An extension to the Atom MineTweaker with SulvicMods zenscripts",
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/Crimzega/minetweaker-sulvic",
+  "license": "MIT",
+  "name": "minetweaker-sulvic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crimzega/minetweaker-sulvic.git"
+  },
+  "version": "0.1.0"
+}

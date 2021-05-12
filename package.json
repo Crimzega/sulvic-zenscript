@@ -11,12 +11,12 @@
   "engines": {
     "atom": "*"
   },
-  "homepage": "https://github.com/Crimzega/minetweaker-sulvic",
+  "homepage": "https://github.com/Crimzega/sulvic-zenscript",
   "license": "MIT",
   "name": "minetweaker-sulvic",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crimzega/minetweaker-sulvic.git"
+    "url": "git+https://github.com/Crimzega/sulvic-zenscript.git"
   },
   "version": "1.0.0"
 }

@@ -1,0 +1,37 @@
+".source.minetweaker":
+  "Detector":
+    prefix: "Det"
+    body: "Detector."
+  "addOre":
+    prefix: "adO"
+    body: "addOre()"
+  "getOres":
+    prefix: "gtO"
+    body: "getOres()"
+  "removeOre":
+    prefix: "rmO"
+    body: "removeOre()"
+  "Tank":
+    prefix: "Tnk"
+    body: "Tank."
+  "getFluids":
+    prefix: "gtFl"
+    body: "getFluids()"
+  "blacklistFluids":
+    prefix: "blkFl"
+    body: "blacklistFluids()"
+  "whitelistFluids":
+    prefix: "whtFl"
+    body: "whitelistFluids()"
+  "Wrench":
+    prefix: "Wre"
+    body: "Wrench."
+  "addBlock":
+    prefix: "adBl"
+    body: "addBlock()"
+  "changeDamage":
+    prefix: "chDmg"
+    body: "changeDamage()"
+  "removeBlock":
+    prefix: "rmBl"
+    body: "removeBlock()"

@@ -16,7 +16,7 @@
   "name": "minetweaker-sulvic",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crimzega/sulvic-zenscript.git"
+    "url": "https://github.com/Crimzega/sulvic-zenscript.git"
   },
   "version": "1.0.0"
 }

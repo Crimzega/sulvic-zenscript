@@ -1,9 +1,9 @@
 {
   "bugs": {
-    "url": "https:"
+    "url": "https://github.com/Crimzega/sulvic-zenscript/issues"
   },
   "bundleDependencies": true,
-  "dependencies": {
+  "packge-deps": {
     "minetweaker": "4.2.0"
   },
   "depricated": false,
@@ -18,5 +18,5 @@
     "type": "git",
     "url": "https://github.com/Crimzega/sulvic-zenscript.git"
   },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
